@@ -1,2 +1,5 @@
-# test-component-library
-this is a javascript test library for react projects
+# simple-component-library
+A library of React components created using `create-react-app`.
+## Installation
+Run the following command:
+`npm install test-component-library`
